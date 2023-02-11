@@ -1,2 +1,2 @@
 # PrivacyPolicy
-Privacy Policy for my free mobile apps
+Privacy Policy for my StickyStylusWidget
